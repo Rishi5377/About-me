@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishi5377
+- 👋 Hi, I’m Rishanth Reddy G
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on ...
